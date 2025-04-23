@@ -18,7 +18,7 @@ public class Example1 {
 }
 
 /*
-@Component : bir sınıfı Spring Bean olarak tanımlar. Yani Spring’e "Bu sınıfın bir nesnesini oluştur ve yönet" demek olur. Bu sınıf, Spring uygulaması başlarken IoC container tarafından oluşturulur ve bir bean olarak kaydedilir.
+@Component : bir sınıfı Spring Bean olarak tanımlar. Yani Spring’e "Bu sınıfın bir nesnesini oluştur ve yönet" demek olur. Bu sınıf, Spring uulaması başlarken IoC container tarafından oluşturulur ve bir bean olarak kaydedilir.
 
 @ComponentScan : Spring’e hangi paketleri taraması gerektiğini söyler. Taramak demek: @Component, @Service, @Repository, @Controller gibi anotasyonlu sınıfları arayıp bulmak demek.
 
