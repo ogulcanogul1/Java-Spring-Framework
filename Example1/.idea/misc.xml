@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/../Example8/pom.xml" />
         <option value="$PROJECT_DIR$/../example_9/pom.xml" />
         <option value="$PROJECT_DIR$/../example_10/pom.xml" />
+        <option value="$PROJECT_DIR$/../example_11/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -29,6 +30,7 @@
         <option value="$PROJECT_DIR$/../Example6/pom.xml" />
         <option value="$PROJECT_DIR$/../Example7/pom.xml" />
         <option value="$PROJECT_DIR$/../Example8/pom.xml" />
+        <option value="$PROJECT_DIR$/../example_10/pom.xml" />
         <option value="$PROJECT_DIR$/../example_9/pom.xml" />
       </set>
     </option>
